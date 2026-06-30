@@ -14,5 +14,21 @@
     "openPanel": "Contextual help",
     "fullDocs": "Full documentation",
     "replayTour": "Replay product tour"
+  },
+  "feedback": {
+    "prompt": "Found a mistake? Request a change.",
+    "trigger": "Request a change",
+    "heading": "Request a change or report a mistake",
+    "messageLabel": "What should we fix?",
+    "messagePlaceholder": "Describe the mistake or the change you'd like to see…",
+    "contactLabel": "Contact (optional)",
+    "contactPlaceholder": "Email or handle, if you'd like a reply",
+    "submit": "Send feedback",
+    "submitting": "Sending…",
+    "cancel": "Cancel",
+    "success": "Thanks! Your feedback reached our team.",
+    "error": "Something went wrong. Please try again.",
+    "retry": "Try again",
+    "required": "Please enter a message."
   }
 }
